@@ -18,8 +18,8 @@ Some of our initiatives involve regular womxn-only as well as occasional inclusi
 <a href="http://bit.ly/womencodebe-newsletter-signup">
   <img src="https://raw.githubusercontent.com/womendotcodebe/womendotcodebe/primary/assets/stayintheloop.gif" alt="Go to our newsletter signup"/>
 </a>
-</ br>
-</ br>
+</br>
+</br>
 
 **Where can you reach and follow us?**
 
