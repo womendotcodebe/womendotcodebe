@@ -1,4 +1,4 @@
-![women dot code be](https://raw.githubusercontent.com/Mangamaui/Mangamaui/master/cover.png)
+![women dot code be](http://mangamaui.s3.amazonaws.com/cover.png)
 
 
 Welcome to [women.code(be)](http://bit.ly/wdcb-website), a community for womxn who code in Belgium. 🇧🇪
